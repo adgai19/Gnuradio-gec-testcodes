@@ -7,5 +7,7 @@
 3. Type following in terminal
 ```
 	cd  Gnuradio-gec-testcodes
+	chmod a+x install.sh
+	sudo ./install.sh
 	
 ```
